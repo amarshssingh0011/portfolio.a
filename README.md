@@ -1,3 +1,4 @@
 # portfolio
-this is my frist project
-amarsh singh
+This is my frist project
+Amarsh singh
+amarshssingh@gmail.com
